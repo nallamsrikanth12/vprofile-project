@@ -17,7 +17,7 @@
         <snapshotRepository>
             <id>nexus</id>
             <name>vprofile Snapshot Repository</name>
-            <url>http://your-snapshot-repository-url</url>
+            <url>http://18.134.228.132:8081/repository/vprofie-Snapshot/</url>
         </snapshotRepository>
         </distributionManagement>
 	
