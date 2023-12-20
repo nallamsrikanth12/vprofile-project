@@ -3,7 +3,7 @@
 	<groupId>com.visualpathit</groupId>
 	<artifactId>vprofile</artifactId>
 	<packaging>war</packaging>
-	<version>v2-SNAPSHOT</version>
+	<version>v2</version>
 	<name>Visualpathit VProfile Webapp</name>
 	<url>http://maven.apache.org</url>
 	
@@ -17,7 +17,7 @@
         <snapshotRepository>
             <id>nexus</id>
             <name>vprofile Snapshot Repository</name>
-            <url>http://18.133.243.77:8081/repository/vprofie-Snapshot/</url>
+            <url>http://18.133.243.77:8081/repository/vprofile-Snapshot/</url>
         </snapshotRepository>
         </distributionManagement>
 	
