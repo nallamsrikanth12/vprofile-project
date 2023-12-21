@@ -12,12 +12,12 @@
         <repository>
             <id>nexus</id>
             <name>Vprofile Release Repository</name>
-            <url>http://18.133.243.77:8081/repository/vprofile-Release/</url>
+            <url>http://35.178.108.41:8081/repository/vprofile-Release/</url>
         </repository>
         <snapshotRepository>
             <id>nexus</id>
             <name>vprofile Snapshot Repository</name>
-            <url>http://18.133.243.77:8081/repository/vprofile-Snapshot/</url>
+            <url>http://35.178.108.41:8081/repository/vprofile-Snapshot/</url>
         </snapshotRepository>
         </distributionManagement>
 	
@@ -32,8 +32,8 @@
 		<jstl.version>1.2</jstl.version>
 		<junit.version>4.10</junit.version>
 		<logback.version>1.1.3</logback.version>
-		<sonar.host.url>http://18.171.183.117:9000/</sonar.host.url>
-		<sonar.login>squ_93040420b8b7165dbbff6c62a343bf2e65a27770</sonar.login>
+		<sonar.host.url>http://35.176.103.175:9000/</sonar.host.url>
+		<sonar.login>squ_88d11a277d0759084f05c93e2ab5d0cc678f1c0f</sonar.login>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
